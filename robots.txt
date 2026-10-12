@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /.github/
+Disallow: /assets/
+
+Sitemap: https://shaheen-os.github.io/SHAHEEN-OS/sitemap.xml
